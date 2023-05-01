@@ -23,6 +23,7 @@
     "**/*.css"
   ],
   "scripts": {
+    "build": "esno copy.js",
     "play": "nr -C playground dev",
     "bum": "bumpp",
     "release": "npm publish --access public"
