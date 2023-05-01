@@ -1,0 +1,16 @@
+@import "./cover.css";
+@import "./flex.css";
+@import "./animation.css";
+
+.word-break {
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.user-select {
+  user-select: none;
+  -webkit-user-select: none;
+}
+.pointer {
+  cursor: pointer;
+}

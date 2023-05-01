@@ -1,0 +1,10 @@
+@import "@csstools/normalize.css";
+@import "sanitize.css";
+@import "./scroll-bar.css";
+
+body {
+  font-family: -apple-system-font, "Helvetica Neue", sans-serif, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei";
+  color: #000000;
+  font-size: 14px;
+  line-height: 1;
+}
