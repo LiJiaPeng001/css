@@ -24,7 +24,8 @@
   ],
   "scripts": {
     "play": "nr -C playground dev",
-    "release": "bumpp && npm publish"
+    "bum": "bumpp",
+    "release": "npm publish"
   },
   "devDependencies": {
     "@csstools/normalize.css": "^12.0.0",
