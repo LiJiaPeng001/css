@@ -1,3 +1,3 @@
-## starter-ts
+# @peeeng/css
 
-库的原始包
+css reset && preset css
