@@ -17,7 +17,8 @@
   "style": "peeeng.css",
   "sideEffects": false,
   "exports": {
-    ".": "./peeeng.css"
+    ".": "./peeeng.css",
+    "./*": "./*"
   },
   "files": [
     "**/*.css"
